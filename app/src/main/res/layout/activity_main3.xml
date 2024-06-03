@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#B3279BF8"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/backm3"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="364dp"
+            android:src="@drawable/baseline_arrow_back_24"></ImageView>
+    </RelativeLayout>
+<TextView
+    android:id="@+id/tieudemaudon"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30dp"
+    />
+
+    <TextView
+        android:id="@+id/noidungmaudon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/linkmaudon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#673AB7"
+        android:textStyle="italic" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/sear"
+    android:icon="@drawable/baseline_search_24"
+    android:title="tìm kiếm"
+    app:showAsAction="always" />
+
+</menu>

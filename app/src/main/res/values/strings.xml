@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sổ tay điện tử FITHOU</string>
+    <string name="nav_home">Giới thiệu</string>
+    <string name="nav_maudon">Mẫu đơn</string>
+    <string name="nav_cauhoi">Câu hỏi thường gặp</string>
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
